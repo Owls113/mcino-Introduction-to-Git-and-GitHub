@@ -14,3 +14,13 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+## Simple Interest Calculator
+
+This repository includes a Bash script (`simple-interest.sh`) that calculates simple interest based on user input for:
+- Principal amount
+- Rate of interest
+- Time period
+
+Run the calculator:
+```bash
+bash simple-interest.sh
