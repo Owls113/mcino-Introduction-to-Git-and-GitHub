@@ -13,7 +13,7 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2023 XYZ, Inc._
+_© 2024 XYZ, Inc._
 ## Simple Interest Calculator
 
 This repository includes a Bash script (`simple-interest.sh`) that calculates simple interest based on user input for:
